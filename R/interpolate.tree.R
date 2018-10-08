@@ -55,7 +55,7 @@ path.dist <- function(x, y)
   x <- strsplit(x, split = "/")[[1]][-1]
   y <- strsplit(y, split = "/")[[1]][-1]
 
-  for()
+  # for()
 
 }
 
